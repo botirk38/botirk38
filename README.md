@@ -59,9 +59,7 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ✉️ Email me: [btrghstk@gmail.com](mailto:btrghstk@gmail.com)
 
 
-## 📈 GitHub Contribution Graph
-
-[![Botir's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=botirk38&theme=xcode)](https://github.com/botirk38)
+[![Github Contribution ACtivity](https://github-readme-activity-graph.vercel.app/graph?username=botirk38theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌈 Most Used Languages
 
