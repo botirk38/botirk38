@@ -28,35 +28,33 @@ In the intricate world of software development, this Hadith reminds me that stre
 - **Integrity & Respect**: I believe that in everything you do in life, you must fear God, treat everyone with respect and act with integrity because as a Muslim, I am a representative of our beloved Prophet Muhammad ﷺ 
 
 
-## 🛠 Tech Stack
-
 ### 🌐 Frontend Frameworks/Libraries:
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 💅 Styling and UI Libraries:
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components)
-![ChakraUI](https://img.shields.io/badge/-ChakraUI-319795?style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge)
 
 ### 🛠️ Backend and APIs:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![REST](https://img.shields.io/badge/-REST-02569B?style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-02569B?style=for-the-badge)
 
 ### 📜 Programming Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases:
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Others:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 <!--
