@@ -1,6 +1,6 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
 <div align="center">
-  <img src="https://i.redd.it/6kmghsev58j71.jpg" width="1000" alt="Your Image Description">
+  <img src="https://i.redd.it/6kmghsev58j71.jpg" width="800" alt="Your Image Description">
 </div>
 
 
