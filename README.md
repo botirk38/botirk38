@@ -1,7 +1,7 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/U9juitOBI-4AAAAC/vinland-saga-thorfinn.gif" width="100"/>
+  <img src="https://tenor.com/hmtRmijAt3q.gif" width="100"/>
 </div>
 
 
