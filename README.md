@@ -67,4 +67,3 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 
 ---
 
-Thank you for stopping by! Feel free to star ⭐ my repositories if you find them interesting! Don't forget to leave a
