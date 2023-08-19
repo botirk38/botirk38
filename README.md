@@ -1,33 +1,31 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
+
 <div align="center">
-  <img src="https://i.redd.it/6kmghsev58j71.jpg" width="800" alt="Your Image Description">
+  <img src="https://i.redd.it/6kmghsev58j71.jpg" width="800" alt="Botir Khaltaev Image">
 </div>
 
+## 📜 Table of Contents
 
+- [About Me](#about-me)
+- [My Core Principles](#my-core-principles)
+- [Tech Stack](#tech-stack)
+- [Contact Me](#contact-me)
+- [GitHub Stats](#github-stats)
 
+## 🧑‍💻 About Me
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
-
-<img src="https://komarev.com/ghpvc/?username=botirk38 &style=flat-square&color=blue" alt=""/>
-
-
-As a dedicated software developer, my approach is inspired by teachings from my faith.=I primarily focus on the Frontend for now but after I master my frontend skills, I am planning to become a full stack devel
-
-
+I'm a frontend developer passionate about creating intuitive user experiences. Currently studying at [Your University or Place], I love collaborating on open-source projects and am always eager to learn more.
 
 Driven by the teachings of my faith, I find profound wisdom in the words:
 
 > "The strong man is not the one who can overpower others. Instead, the strong man is the one who controls himself when he is angry." - Prophet Muhammad ﷺ [Sahih al-Bukhari]
 
-In the intricate world of software development, this Hadith reminds me that strength isn't merely about technical prowess. It's about exhibiting patience during tough debugging sessions, showing kindness during code reviews, and maintaining a spirit of collaboration even amidst differing opinions.
+## 🌱 My Core Principles
 
-## My Core Principles
+- **Genuine Strength & Patience**: True strength lies in mastering reactions. This guides every code I write, team interaction, and project I undertake.
+- **Integrity & Respect**: Fear God, treat everyone with respect, and act with integrity. As a Muslim, I represent Prophet Muhammad ﷺ.
 
-- **Genuine Strength & Patience**: I believe that true strength lies not in dominance but in mastering our own reactions. This is a guiding principle in every code I write, every team interaction, and every project I undertake.
-- **Integrity & Respect**: I believe that in everything you do in life, you must fear God, treat everyone with respect and act with integrity because as a Muslim, I am a representative of our beloved Prophet Muhammad ﷺ 
-
+## 🔧 Tech Stack
 
 ### 🌐 Frontend Frameworks/Libraries:
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=white)
@@ -52,31 +50,21 @@ In the intricate world of software development, this Hadith reminds me that stre
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 Others:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📫 Contact Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
 
+✉️ Email me: [youremail@example.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
 
 [![My Contributions](https://github-readme-stats.vercel.app/api?username=botirk38&show_icons=true&theme=radical)](https://github.com/botirk38)
 
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 
 [![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=botirk38&theme=radical)](https://github.com/botirk38)
 
-<!--
-**botirk38/botirk38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for stopping by! Feel free to star ⭐ my repositories if you find them interesting! Don't forget to leave a
