@@ -1,7 +1,7 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/hmtRmijAt3q.gif" width="100"/>
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6kmghsev58j71.jpg" width="100"/>
 </div>
 
 
