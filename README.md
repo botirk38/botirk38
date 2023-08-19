@@ -1,7 +1,7 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
 
 
-![Vinland Saga Thorfinn GIF](https://tenor.com/hmtRmijAt3q.gif)
+![Vinland Saga Thorfinn GIF](https://media.tenor.com/U9juitOBI-4AAAAC/vinland-saga-thorfinn.gif)
 
 
 
