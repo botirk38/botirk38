@@ -3,7 +3,12 @@
 
 ![Vinland Saga Thorfinn GIF](https://tenor.com/hmtRmijAt3q.gif)
 
-s
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
+
+
 Driven by the teachings of my faith, I find profound wisdom in the words:
 
 > "The strong man is not the one who can overpower others. Instead, the strong man is the one who controls himself when he is angry." - Prophet Muhammad ﷺ [Sahih al-Bukhari]
