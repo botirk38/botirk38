@@ -51,17 +51,6 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 📌 Project Highlights
-
-Here are a few projects I'm particularly proud of:
-
-- **[Project Name 1](GitHubRepoLink1)**: Short description about this project.
-- **[Project Name 2](GitHubRepoLink2)**: Short description about this project.
-- **[Project Name 3](GitHubRepoLink3)**: Short description about this project.
-
-  [More Projects...](https://github.com/botirk38?tab=repositories)
-
-
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
