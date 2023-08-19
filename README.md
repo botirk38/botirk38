@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Front-End developer passionate about creating intuitive user experiences. Currently studying at [Royal Holloway University of London], I love collaborating on open-source projects and am always eager to learn more.
+I'm a Front-End developer passionate about creating intuitive user experiences. Currently studying at Royal Holloway University of London, I love collaborating on open-source projects and am always eager to learn more.
 
 Driven by the teachings of my faith, I find profound wisdom in the words:
 
