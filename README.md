@@ -12,6 +12,7 @@
 
 
 
+
 Driven by the teachings of my faith, I find profound wisdom in the words:
 
 > "The strong man is not the one who can overpower others. Instead, the strong man is the one who controls himself when he is angry." - Prophet Muhammad ﷺ [Sahih al-Bukhari]
