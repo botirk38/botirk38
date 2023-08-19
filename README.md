@@ -36,10 +36,14 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### 🛠️ Backend and APIs:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-02569B?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### 📜 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,6 +53,14 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ### 🗄️ Databases:
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Testing
+![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?style=for-the-badge)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-purple?style=for-the-badge&logo=react&logoColor=white)
+
+### 🔄 Version Control:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📫 Contact Me
