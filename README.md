@@ -59,7 +59,7 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ✉️ Email me: [btrghstk@gmail.com](mailto:btrghstk@gmail.com)
 
 
-[![Github Contribution ACtivity](https://github-readme-activity-graph.vercel.app/graph?username=botirk38theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Contribution ACtivity](https://github-readme-activity-graph.vercel.app/graph?username=botirk38theme=dracula)](https://github.com/botirk38/github-readme-activity-graph)
 
 ## 🌈 Most Used Languages
 
