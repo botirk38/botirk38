@@ -8,7 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
 
-![Profile views](https://gpvc.arturio.dev/botirk38)
+<img src="https://komarev.com/ghpvc/?username=botirk38 &style=flat-square&color=blue" alt=""/>
+
 
 
 
