@@ -1,7 +1,12 @@
 # Assalamu Alaikum, I'm Botir Khaltaev 👋
 
 
-<div class="tenor-gif-embed" data-postid="6041841180138873838" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/vinland-saga-thorfinn-thorfinn-edit-vinland-saga-edit-no-enemies-gif-6041841180138873838">Vinland Saga Thorfinn GIF</a>from <a href="https://tenor.com/search/vinland+saga-gifs">Vinland Saga GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="6041841180138873838" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%">
+    <a href="https://tenor.com/view/vinland-saga-thorfinn-thorfinn-edit-vinland-saga-edit-no-enemies-gif-6041841180138873838">Vinland Saga Thorfinn GIF</a>
+    from <a href="https://tenor.com/search/vinland+saga-gifs">Vinland Saga GIFs</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 Driven by the teachings of my faith, I find profound wisdom in the words:
 
