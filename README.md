@@ -59,11 +59,11 @@ In the intricate world of software development, this Hadith reminds me that stre
 
 ## 📊 GitHub Stats
 
-[![My Contributions](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)](https://github.com/botirk38)
+[![My Contributions](https://github-readme-stats.vercel.app/api?username=botirk38&show_icons=true&theme=radical)](https://github.com/botirk38)
 
 ### 🔥 Streak Stats
 
-[![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=your_github_username&theme=radical)](https://github.com/botirk38)
+[![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=botirk38&theme=radical)](https://github.com/botirk38)
 
 <!--
 **botirk38/botirk38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
