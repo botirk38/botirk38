@@ -1,4 +1,9 @@
-### Hi there 👋
+# Assalamu Alaikum, I'm [Your Name] 👋
+
+Driven by the teachings of my faith, I find profound wisdom in the words:
+
+> "The strong man is not the one who can overpower others. Instead, the strong man is the one who controls himself when he is angry." - Prophet Muhammad ﷺ [Sahih al-Bukhari]
+
 
 <!--
 **botirk38/botirk38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
