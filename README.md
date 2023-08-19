@@ -69,6 +69,17 @@ Here are a few projects I'm particularly proud of:
 
 ✉️ Email me: [youremail@example.com](mailto:youremail@example.com)
 
+
+## 📈 GitHub Contribution Graph
+
+[![Botir's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=botirk38&theme=xcode)](https://github.com/botirk38)
+
+## 🌈 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botirk38&layout=compact&theme=radical)](https://github.com/botirk38)
+
+
+
 ## 📊 GitHub Stats
 
 [![My Contributions](https://github-readme-stats.vercel.app/api?username=botirk38&show_icons=true&theme=radical)](https://github.com/botirk38)
@@ -79,12 +90,5 @@ Here are a few projects I'm particularly proud of:
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-[![Botir's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=botirk38&theme=xcode)](https://github.com/botirk38)
-
-## 🌈 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botirk38&layout=compact&theme=radical)](https://github.com/botirk38)
 
 
