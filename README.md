@@ -56,7 +56,7 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
 
-✉️ Email me: [youremail@example.com](mailto:youremail@example.com)
+✉️ Email me: [btrghstk@gmail.com](mailto:btrghstk@gmail.com)
 
 
 ## 📈 GitHub Contribution Graph
