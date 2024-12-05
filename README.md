@@ -91,7 +91,7 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 
 ## 🌈 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botirk38&layout=compact&theme=radical&hide=html,css)](https://github.com/botirk38)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botirk38&layout=compact&theme=radical&hide=html,css,javascript)](https://github.com/botirk38)
 
 
 
