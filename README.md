@@ -27,7 +27,7 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 
 ## 🔧 Tech Stack
 
-### ⚙️ Programming Languages:
+### ⚙️ Systems Programming Languages:
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,13 +39,10 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 
 ### 📡 Networking & Protocols:
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![HTTP/2](https://img.shields.io/badge/-HTTP/2-00599C?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-4FC08D?style=for-the-badge)
 ![TCP/UDP](https://img.shields.io/badge/-TCP/UDP-02569B?style=for-the-badge)
-![QUIC](https://img.shields.io/badge/-QUIC-FF6600?style=for-the-badge)
 
 ### ⚡ High-Performance Computing:
-![SIMD](https://img.shields.io/badge/-SIMD-000000?style=for-the-badge)
 ![Multithreading](https://img.shields.io/badge/-Multithreading-6A1B9A?style=for-the-badge)
 ![Parallel Computing](https://img.shields.io/badge/-Parallel%20Computing-336791?style=for-the-badge)
 ![Kernel Optimization](https://img.shields.io/badge/-Kernel%20Optimization-FF4500?style=for-the-badge)
@@ -53,22 +50,19 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ### 🛠️ Backend & Systems Development:
 ![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000?style=for-the-badge)
-![Filesystem Development](https://img.shields.io/badge/-Filesystem%20Development-007396?style=for-the-badge)
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-FF5733?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/-Microservices-008080?style=for-the-badge)
 
 ### 💾 Databases & Storage:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![RocksDB](https://img.shields.io/badge/-RocksDB-FF6600?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FoundationDB](https://img.shields.io/badge/-FoundationDB-0066CC?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 ### 🔄 Message Queues & Event-Driven Systems:
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![NATS](https://img.shields.io/badge/-NATS-48A1DB?style=for-the-badge)
-![ZeroMQ](https://img.shields.io/badge/-ZeroMQ-DF0000?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge)
 
 ### 🖥️ DevOps & Infrastructure:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -82,11 +76,9 @@ Driven by the teachings of my faith, I find profound wisdom in the words:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/-Jaeger-0078D7?style=for-the-badge)
-![Flamegraphs](https://img.shields.io/badge/-Flamegraphs-FF1493?style=for-the-badge)
 
 ### 🧪 Testing & Benchmarking:
 ![GTest](https://img.shields.io/badge/-GTest-007396?style=for-the-badge)
-![Benchmarking](https://img.shields.io/badge/-Benchmarking-FF8C00?style=for-the-badge)
 ![Valgrind](https://img.shields.io/badge/-Valgrind-555555?style=for-the-badge)
 ![Fuzzing](https://img.shields.io/badge/-Fuzzing-9C27B0?style=for-the-badge)
 
